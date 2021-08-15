@@ -9,5 +9,5 @@ Will Fried
 Dimitris Vamvourellis
 
 My main contributions can be found in the following two files in the notebooks directory:
- 1. data_preprocessing.ipynb
- 2. bayesian_model.ipynb
+ 1. bayesian_model.ipynb
+ 2. data_preprocessing.ipynb
