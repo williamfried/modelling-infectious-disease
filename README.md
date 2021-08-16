@@ -8,6 +8,6 @@ Matthieu Meeus
 Will Fried
 Dimitris Vamvourellis
 
-My main contributions can be found in the following two files in the notebooks directory:
- 1. bayesian_model.ipynb
- 2. data_preprocessing.ipynb
+My main contributions were:
+ 1. https://github.com/williamfried/modelling-infectious-disease/blob/master/notebooks/bayesian_model.ipynb 
+ 2. https://github.com/williamfried/modelling-infectious-disease/blob/master/notebooks/data_preprocessing.ipynb
