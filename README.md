@@ -9,5 +9,5 @@ Will Fried
 Dimitris Vamvourellis
 
 My main contributions were:
- 1. https://github.com/williamfried/modelling-infectious-disease/blob/master/notebooks/bayesian_model.ipynb 
+ 1. [bayesian model](https://github.com/williamfried/modelling-infectious-disease/blob/master/notebooks/bayesian_model.ipynb)
  2. https://github.com/williamfried/modelling-infectious-disease/blob/master/notebooks/data_preprocessing.ipynb
